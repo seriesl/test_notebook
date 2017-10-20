@@ -5,4 +5,4 @@ dependencies:
         - jupyterlab
         - numpy
         - bokeh
-        - gfortran_linux-64
+        - gfortran
