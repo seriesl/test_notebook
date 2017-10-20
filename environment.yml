@@ -1,7 +1,8 @@
 name: test
 channels:
-        - conda-forge
+    - conda-forge
 dependencies:
-        - jupyterlab
-        - numpy
-        - bokeh
+    - jupyterlab
+    - numpy
+    - bokeh
+    - gcc
