@@ -5,4 +5,3 @@ dependencies:
         - jupyterlab
         - numpy
         - bokeh
-        - gfortran
